@@ -1,7 +1,7 @@
 {
   "name": "dsc",
   "version": "0.1.0",
-  "homepage": "http://dsc-akgec.github.io/DSC-Website",
+  "homepage": "http://dsc-akgec.github.io/dsc-website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
