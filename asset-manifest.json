@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/DSC-Website/static/css/main.2f8edd87.chunk.css",
-    "main.js": "/DSC-Website/static/js/main.27e22b0b.chunk.js",
-    "main.js.map": "/DSC-Website/static/js/main.27e22b0b.chunk.js.map",
-    "runtime-main.js": "/DSC-Website/static/js/runtime-main.24848094.js",
-    "runtime-main.js.map": "/DSC-Website/static/js/runtime-main.24848094.js.map",
-    "static/js/2.91c70863.chunk.js": "/DSC-Website/static/js/2.91c70863.chunk.js",
-    "static/js/2.91c70863.chunk.js.map": "/DSC-Website/static/js/2.91c70863.chunk.js.map",
-    "index.html": "/DSC-Website/index.html",
-    "precache-manifest.66961a09be01639ea83a0dfdc321e2ce.js": "/DSC-Website/precache-manifest.66961a09be01639ea83a0dfdc321e2ce.js",
-    "service-worker.js": "/DSC-Website/service-worker.js",
-    "static/css/main.2f8edd87.chunk.css.map": "/DSC-Website/static/css/main.2f8edd87.chunk.css.map",
-    "static/js/2.91c70863.chunk.js.LICENSE.txt": "/DSC-Website/static/js/2.91c70863.chunk.js.LICENSE.txt",
-    "static/media/footerLogo.png": "/DSC-Website/static/media/footerLogo.61123d7a.png"
+    "main.css": "/dsc-website/static/css/main.2c7124a4.chunk.css",
+    "main.js": "/dsc-website/static/js/main.4845caf6.chunk.js",
+    "main.js.map": "/dsc-website/static/js/main.4845caf6.chunk.js.map",
+    "runtime-main.js": "/dsc-website/static/js/runtime-main.86c707d3.js",
+    "runtime-main.js.map": "/dsc-website/static/js/runtime-main.86c707d3.js.map",
+    "static/js/2.7a982b93.chunk.js": "/dsc-website/static/js/2.7a982b93.chunk.js",
+    "static/js/2.7a982b93.chunk.js.map": "/dsc-website/static/js/2.7a982b93.chunk.js.map",
+    "index.html": "/dsc-website/index.html",
+    "precache-manifest.84ef15d29373e2e92a2f32bdca638374.js": "/dsc-website/precache-manifest.84ef15d29373e2e92a2f32bdca638374.js",
+    "service-worker.js": "/dsc-website/service-worker.js",
+    "static/css/main.2c7124a4.chunk.css.map": "/dsc-website/static/css/main.2c7124a4.chunk.css.map",
+    "static/js/2.7a982b93.chunk.js.LICENSE.txt": "/dsc-website/static/js/2.7a982b93.chunk.js.LICENSE.txt",
+    "static/media/Calendar.png": "/dsc-website/static/media/Calendar.1f7d5093.png",
+    "static/media/aboutimg.png": "/dsc-website/static/media/aboutimg.e3e4b249.png",
+    "static/media/footerLogo.png": "/dsc-website/static/media/footerLogo.61123d7a.png",
+    "static/media/homepage.jpg": "/dsc-website/static/media/homepage.3053a670.jpg",
+    "static/media/projectimg.png": "/dsc-website/static/media/projectimg.a7498669.png",
+    "static/media/teamimg.png": "/dsc-website/static/media/teamimg.a4f65060.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.24848094.js",
-    "static/js/2.91c70863.chunk.js",
-    "static/css/main.2f8edd87.chunk.css",
-    "static/js/main.27e22b0b.chunk.js"
+    "static/js/runtime-main.86c707d3.js",
+    "static/js/2.7a982b93.chunk.js",
+    "static/css/main.2c7124a4.chunk.css",
+    "static/js/main.4845caf6.chunk.js"
   ]
 }
